@@ -97,7 +97,12 @@ pip install -r requirements.txt
 
 # Input Data
 
-Two independent case studies are included.
+Two independent case studies are supported.
+
+The input data required for Case Study I are provided in this repository. The data used in Case Study II are publicly available on Zenodo:
+
+Case Study II dataset: https://doi.org/10.5281/zenodo.21718385
+DOI: 10.5281/zenodo.21718385
 
 Each case study requires three input files located inside
 
